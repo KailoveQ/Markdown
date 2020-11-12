@@ -1,24 +1,20 @@
 # 燕凯的Markdown博客
-## git本地仓库
-1. git init 创建本地仓库
-2. git add 将文本标记为提交模式
-3. git commit -v 提交commit并进行修改内容记录
-4. git reset --hard xxxxx 版本横跳（御剑飞行）
-5. git log 查看历史提交（女朋友视角）
-6. git reflog 查看所有提交 （男主视角）
-7. git branch x 创建分支
-8. git checkout x 跳转到分支
-9. git merge 合并分支
-10. git branch -d x 删除分支
-## git远程仓库
-上传程序到远程仓库步骤
-  * 上传秘钥
-  * git
-```bash
-git remote add origin git@github.com:KailoveQ/markdown.git
-git branch -M main
-git push -u origin main
-```
-  * 如果提示push，那就push一下，如下图：
-![图片详解](1.png)
-* 还不行的话就[点我](https://www.jirengu.com)
+## 个人信息
+1. 姓名：燕凯
+2. 年龄：22
+3. 性别：男
+4. 生日：12.21
+5. 籍贯：山东省青岛市黄岛区红石崖街道
+## 个人爱好
+* 唱
+* 跳
+* rap
+* 篮球
+## 学习经历
+1. 黄海学院 机械设计制造及自动化
+2. 青岛海之晨工业装备有限公司 机器视觉工程师
+3. 饥人谷 前端学习
+
+这里是我学习前端的地方[饥人谷](https://www.jirengu.com)
+
+桌面背景![桌面背景](7.png)
